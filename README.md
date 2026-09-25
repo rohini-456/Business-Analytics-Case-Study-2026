@@ -35,4 +35,4 @@ Create your own GitHub repository and upload:
 
 ## Submission
 
-After uploading all four items, copy the link to **your own GitHub repository** and submit it using the Google Form shared.
+After uploading all required files to your GitHub repository, submit the repository link through the Google Form shared.
